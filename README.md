@@ -6,3 +6,9 @@ A smart coffee roaster
 
 <a href="https://github.com/AndrewKlement/CoffeeRoaster/blob/8ceea9b8c5ff327a877338cce24567d7d1cb6948/CoffeeRoaster.jpg" target="_blank">
 <img src="https://github.com/AndrewKlement/CoffeeRoaster/blob/8ceea9b8c5ff327a877338cce24567d7d1cb6948/CoffeeRoaster.jpg" width='250px' alt='image missing' /> </a>
+
+<a href="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/roaster.jpg" target="_blank">
+<img src="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/roaster.jpg" width='250px' alt='image missing' /> </a>
+
+<a href="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/140252.jpg" target="_blank">
+<img src="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/140252.jpg" width='250px' alt='image missing' /> </a>
