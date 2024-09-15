@@ -12,3 +12,6 @@ A smart coffee roaster
 
 <a href="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/140252.jpg" target="_blank">
 <img src="https://github.com/AndrewKlement/CoffeeRoaster/blob/main/140252.jpg" height='333px' alt='image missing' /> </a>
+
+<a href="https://github.com/AndrewKlement/CoffeeRoaster/blob/657bbc0472273819a9b9ba27ccb2b9424944307b/roastcurve.jpg" target="_blank">
+<img src="https://github.com/AndrewKlement/CoffeeRoaster/blob/657bbc0472273819a9b9ba27ccb2b9424944307b/roastcurve.jpg" height='390px' alt='image missing' /> </a>
