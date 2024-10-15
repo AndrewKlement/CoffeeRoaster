@@ -1,6 +1,8 @@
 # Coffee Roaster
 A smart coffee roaster 
 
+This is an article I wrote about this project https://medium.com/@a.klement.w/diy-coffee-roaster-dee64f1b8520
+
 # Features 
 - can connect to an app or artisan using Bluetooth, to help record, analyze, and control roast profiles
 
